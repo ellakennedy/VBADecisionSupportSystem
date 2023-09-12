@@ -1,4 +1,4 @@
-# VBA-Powered Time Management Solution**
+# VBA-Powered Time Management Solution
 
 Introducing a robust time management solution driven by VBA (Visual Basic for Applications). This innovative tool has been meticulously crafted as the culmination of our coursework in MSCI 100 (Management Engineering Concepts).
 
