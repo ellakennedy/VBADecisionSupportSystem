@@ -1,5 +1,7 @@
 # VBA-Powered Time Management Solution
 
+![image](https://github.com/ellakennedy/VBADecisionSupportSystem/assets/97488388/4f274bfc-e6a5-4afd-bf9e-5faff14cbbc7)
+
 Introducing a robust time management solution driven by VBA (Visual Basic for Applications). This innovative tool has been meticulously crafted as the culmination of our coursework in MSCI 100 (Management Engineering Concepts).
 
 Here's how it works:
